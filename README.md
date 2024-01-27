@@ -1,5 +1,3 @@
-
-
 # HR-Attrition-Analysis-Report
 
 Welcome to the HR Attrition Analysis Report repository! This repository contains the Tableau visualization and supporting files for our in-depth analysis of employee attrition within our organization.                                                                                                                                                                         
